@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Cannes in pictures: Meryl Streep, Jane Fonda and Lily Gladstone hit the red carpet",
+        "description": "Meryl Streep and Jane Fonda were among the stars walking the red carpet as the film festival began.",
+        "url": "https://www.bbc.co.uk/news/articles/cd131xwe7g8o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fc01/live/4a0b8990-1292-11ef-82e8-cd354766a224.jpg",
+        "publishedAt": "2024-05-15T12:52:19.285518Z",
+        "content": "The Cannes Film Festival got under way on Tuesday, with a host of stars walking the red carpet ahead of the opening ceremony.\r\nGreta Gerwig, Lily Gladstone, Meryl Streep, Jane Fonda and Lea Seydoux w… [+291 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "New Caledonia: Two dead as riots escalate after French vote",
+        "description": "The riots come in response to the French parliament giving French residents there more voting rights.",
+        "url": "https://www.bbc.co.uk/news/articles/c1d4dlxd10xo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/75d1/live/fda88ec0-1284-11ef-9654-bfcbf4a287a1.png",
+        "publishedAt": "2024-05-15T12:37:17.5647635Z",
+        "content": "At least two people have been killed and hundreds injured in the Pacific territory of New Caledonia as riots continue in response to the French parliament giving French residents there more voting ri… [+1735 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "China-Russia relations: What is Xi Jinping prepared to pay for Putin’s war?",
+        "description": "China is a vital ally, but Mr Xi is facing increasing pressure to distance himself from his \"dear friend\".",
+        "url": "https://www.bbc.co.uk/news/world-asia-china-69013520",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2BD5/production/_133312211_gettyimages-1730512638-2.jpg",
+        "publishedAt": "2024-05-15T12:07:16.2533944Z",
+        "content": "But this time, he says, he saw a backlash. \"It's fine, I just blocked them,\" he says. \"Some of my friends unfriended me because they hold different views. But what I can do? I believe I'm doing a rig… [+1125 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "King Charles: First official portrait since coronation is unveiled, painted by Jonathan Yeo",
+        "description": "Queen Camilla is said to have looked at the painting and told the artist: \"Yes, you've got him.\"",
+        "url": "https://www.bbc.co.uk/news/entertainment-arts-68981200",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11AF8/production/_133304427_c3400905-3742-4db3-b546-f919a4cdf24e.jpg",
+        "publishedAt": "2024-05-15T11:37:22.8616886Z",
+        "content": "But Yeo says our relationship with royalty has shifted since those days.\r\n\"On the one hand, we know they're real people with quirks and personality traits. We've seen that much more of them. On the o… [+1415 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Trump's lawyer attacks Michael Cohen in hush-money trial",
+        "description": "The defence team questioned the credibility of Trump's former lawyer, who said he lied for the ex-President.",
+        "url": "https://www.bbc.co.uk/news/world-us-canada-69012587",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/179BD/production/_133310769_cohen4.jpg",
+        "publishedAt": "2024-05-15T11:37:21.4870302Z",
+        "content": "Donald Trump's legal team sought on Tuesday to dismantle the credibility of the star witness in the ex-president's criminal trial, Michael Cohen.\r\nMr Trump showed no reaction as his lawyer, during cr… [+1477 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Westminster dog show: Miniature poodle Sage wins Best in Show award",
+        "description": "Sage, a miniature poodle from Houston, Texas, won the top prize at the 148th annual iteration of the show.",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5rn1evmko",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b98c/live/a9a89700-1295-11ef-bee9-6125e244a4cd.jpg",
+        "publishedAt": "2024-05-15T11:07:18.0970108Z",
+        "content": "The breeds with the largest number of entries this year were chihuahuas, Labrador retrievers, golden retrievers, vizslas, dachshunds, French bulldogs, Australian shepherds and Rhodesian ridgebacks.\r\n… [+420 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ukraine troops pull back in Kharkiv after Russia offensive",
+        "description": "Ukraine says it has moved troops to \"advantageous positions\" as Russia intensifies its attacks on the region.",
+        "url": "https://www.bbc.co.uk/news/articles/c1030vvy0mzo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36d2/live/c6951840-129d-11ef-8caa-950ae8a78cc2.png",
+        "publishedAt": "2024-05-15T10:22:14.3310523Z",
+        "content": "His press secretary, Sergiy Nykyforov, said the president had \"instructed that all international events scheduled for the coming days be postponed and new dates coordinated\".\r\nA spokesman for the mil… [+2119 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Baltimore bridge: After two months, a 'sad situation' for Dali crew",
+        "description": "Morale is low for the Dali's crew members, stranded on board by ongoing investigation into tragedy.",
+        "url": "https://www.bbc.co.uk/news/world-us-canada-69011124",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13876/production/_133309997_gettyimages-2150716993.jpg",
+        "publishedAt": "2024-05-15T09:07:18.5662465Z",
+        "content": "As a controlled explosion rocked the Dali on Monday, nearly two dozen sailors remained on board, safely tucked away below deck in the massive ship's hull. \r\nThe simultaneous blasts sent pieces of Bal… [+1832 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Why does Canada have so many wildfires this season?",
+        "description": "It’s only mid-May, but thousands of people have already been evacuated across Canada as fires rage.",
+        "url": "https://www.bbc.co.uk/news/world-us-canada-69011493",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EDE5/production/_133310906_gettyimages-2152432678.jpg",
+        "publishedAt": "2024-05-15T08:22:17.7374418Z",
+        "content": "There were several fires burning across Canada as of Tuesday, with a few dangerously close to towns and cities. \r\nOne is near Fort Nelson, a town in the north-eastern corner of British Columbia, abou… [+1276 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "MDH and Everest: Indian spices face heat over global safety concerns",
+        "description": "India is a global powerhouse of spices. But recent quality concerns have cast a cloud on its position.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-68989964",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3A70/production/_133306941_gettyimages-1178111197.jpg",
+        "publishedAt": "2024-05-15T00:37:18.0181628Z",
+        "content": "So are Indian spices safe? The federal government has instructed all state governments to conduct quality tests. The Spices Board - which has five quality evaluation labs - has issued guidelines to e… [+2300 chars]"
+      }
+    ]
+  }
